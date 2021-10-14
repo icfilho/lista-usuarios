@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lista Usuários</string>
+    <string name="txt_loading">Importando registros...</string>
+    <string name="txt_check">Verificando registros...</string>
+    <string name="title_activity_lista_usuarios">ListaUsuarios</string>
+
+</resources>
