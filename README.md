@@ -13,4 +13,6 @@ As seguintes ferramentas e padrões foram usados na construção do projeto:
 - [Koin](https://insert-koin.io/)
 - [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [SOLID](https://en.wikipedia.org/wiki/SOLID)
+- [Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming)
 
