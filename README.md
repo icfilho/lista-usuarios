@@ -1,7 +1,7 @@
 # App Lista Usuários
 
 ## Descrição do Projeto
-<p>App desenvolvido para participação do desafio canditado Foton</p>
+<p>App desenvolvido para participação do desafio canditado Fóton</p>
 
 ### 🛠 Tecnologias
 As seguintes ferramentas e padrões foram usados na construção do projeto:
