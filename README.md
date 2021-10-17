@@ -16,6 +16,4 @@ As seguintes ferramentas, padrões e metodologias foram usados na construção d
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [SOLID](https://en.wikipedia.org/wiki/SOLID)
 - [Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming)
-- [Single Activity Architecture]
-
 
