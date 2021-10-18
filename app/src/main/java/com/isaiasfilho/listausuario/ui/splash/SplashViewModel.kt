@@ -6,12 +6,12 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.isaiasfilho.listausuario.data.ActionState
-import com.isaiasfilho.listausuario.data.repository.UserRepository
+import com.isaiasfilho.listausuario.domain.user.IUserRepository
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 
 class SplashViewModel(
-    private val repository: UserRepository
+    private val repository: IUserRepository
 ) : ViewModel() {
 
     private val _stateProcess = MutableLiveData<ActionState>(ActionState.Checking)

@@ -3,7 +3,7 @@ package com.isaiasfilho.listausuario.domain.user
 import com.isaiasfilho.listausuario.domain.user.model.User
 import com.isaiasfilho.listausuario.data.api.model.UserApi
 
-interface UserInterface{
+interface IUserRepository{
     suspend fun listUsersRemote(): List<UserApi>
     suspend fun listUsersLocal(): List<User>
     suspend fun insert(user: User)
